@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33136199672",
+    "project_id": "login-page-b1bde",
+    "storage_bucket": "login-page-b1bde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33136199672:android:dd54c64807fdbee1a3b80d",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTm0flwVOpPEbZHFXbJL8I_8q9y1C3s30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
