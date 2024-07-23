@@ -1,16 +1,12 @@
-# login_page
+## Description:
 
-A new Flutter project.
+This Flutter app shows how to use clean architecture and connects to Firebase for logging in. It includes a login page where you can sign in with your email and password or use social media accounts like Google to log in.
 
-## Getting Started
+## Key Features:
 
-This project is a starting point for a Flutter application.
+- Clean Architecture: Organized into data, domain, and presentation layers for scalability and maintainability.
+- Firebase Integration: Supports email/password authentication and Google Sign-In.
+- Riverpod for State Management: Utilizes Riverpod for state management and dependency injection.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing:
+Feel free to open issues or submit pull requests for enhancements and bug fixes.
