@@ -30,6 +30,7 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+flutter_1.log
 
 # Symbolication related
 app.*.symbols
@@ -41,3 +42,16 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase related
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+
+# Sensitive env files
+.env
+
+# Windows specific
+Thumbs.db
+
+# Other
+*.log
